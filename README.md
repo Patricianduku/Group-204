@@ -67,7 +67,7 @@ The education section includes a download link for your CV.
 
 -   **HTML Anchor Tag:** The link uses an HTML `a` tag with the `download` attribute.
 -   **File Placement:** Ensure your CV file is named `your-cv.pdf` and located in the same directory as `index.html`.
-# Adding Javascript and Dtabases
+# Adding Javascript and Databases
 ## Features
 
 ### Database Integration (MySQL)
